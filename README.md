@@ -1,3 +1,5 @@
+> ⚠️ The official repository was moved under the Exercism organization, [check it out!](https://github.com/exercism/codemirror-lang-gleam)
+
 # codemirror-lang-gleam
 
 This package implements basic Gleam language support for the
